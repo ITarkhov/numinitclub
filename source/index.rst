@@ -15,7 +15,7 @@
    monkeytruth/index
 
 Референсы и таблички
-==================
+====================
 
 * :ref:`genindex`
 * :ref:`modindex`
